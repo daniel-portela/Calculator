@@ -6,7 +6,7 @@
     } 
 
     body {
-    background-color: #71aeb1;
+    background-color: #1d1b1b;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -58,7 +58,7 @@
     border-radius: 0;
     height: 4em;
     font-size: 1.2em;
-    background-color: #dbdbdb;
+    background-color: #01a6ff;
     cursor: pointer;
     }
 
@@ -67,16 +67,16 @@
     }
 
     #buttons-container button:hover {
-    background-color: #bababa;
+    background-color: #bcf9b4;
     border-color: #999;
     }
 
     #buttons-container #equal-btn {
       grid-column: span 2;
-        background-color: #e0e9df;
+        background-color: #bcf9b4;
     }
 
     #buttons-container #equal-btn:hover {
-          background-color: #3a91d8;
+          background-color: #53f701;
     }
     
